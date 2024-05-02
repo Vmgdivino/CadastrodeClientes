@@ -1,0 +1,11 @@
+V:\C#\CastrodeClietes\CastrodeClietes\bin\Debug\CastrodeClietes.exe.config
+V:\C#\CastrodeClietes\CastrodeClietes\bin\Debug\CastrodeClietes.exe
+V:\C#\CastrodeClietes\CastrodeClietes\bin\Debug\CastrodeClietes.pdb
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.csproj.AssemblyReference.cache
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.Properties.Resources.resources
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.csproj.GenerateResource.cache
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.csproj.CoreCompileInputs.cache
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.exe
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.pdb
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.FrmPrincipal.resources
+V:\C#\CastrodeClietes\CastrodeClietes\obj\Debug\CastrodeClietes.FormLogin.resources
